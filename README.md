@@ -1,0 +1,1 @@
+Para que este arquivo funcione corretamente, é necessario que você baixe a pasta VideosEducativos, que se encontra no link X.
